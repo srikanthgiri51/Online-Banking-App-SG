@@ -1,4 +1,4 @@
-# Online Banking Portal (2019): 
+# Online Banking Portal-
 
 Developed a HDFC Bank like Web App that enables users to securely manage accounts, fund transfers, bill payments, and cards. It uses AES encryption and decryption standards, and undergoes server-side and client-side validations to enhance login security and customer access. 
 
