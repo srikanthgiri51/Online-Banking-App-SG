@@ -1,0 +1,6 @@
+*.reactjs linguist-detectable=true  
+*.html linguist-detectable=true  
+*.mysql linguist-detectable=true
+*.maven linguist-detectable=true
+*.restapi linguist-detectable=true  
+*.aes linguist-detectable=true  
