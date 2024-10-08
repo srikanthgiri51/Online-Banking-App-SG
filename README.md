@@ -1,12 +1,13 @@
-# Online Banking Portal-
+# Online Banking Portal
 
 Developed a HDFC Bank like Web App that enables users to securely manage accounts, fund transfers, bill payments, and cards. It uses AES encryption and decryption standards, and undergoes server-side and client-side validations to enhance login security and customer access. 
 
 Spring Boot Offical Webpage - https://spring.io/
-
 Spring Boot Reference Documentation - https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#getting-help
+React Offical Webpage - https://react.dev/learn
 
-## Technolgies used: 
+## Technolgies used:
+
 - Java 
 - Spring Boot
 - MySQL
